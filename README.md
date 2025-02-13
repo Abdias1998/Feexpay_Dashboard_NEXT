@@ -85,3 +85,7 @@ Project-root/
 ├── tailwind.config.js          # Configuration Tailwind CSS
 ├── package.json                # Dépendances et scripts
 └── jsconfig.json               # Configuration JavaScript
+
+[![Statut de déploiement Netlify](https://api.netlify.com/api/v1/badges/ceeab37e-4c14-4f9f-808e-5f7bcaacb049/deploy-status?branch=main)](https://app.netlify.com/sites/feexpay-dashboard/deploys)
+
+
