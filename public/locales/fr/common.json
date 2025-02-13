@@ -1,0 +1,17 @@
+{
+  "dashboard": "Tableau de bord",
+  "transactions": "Transactions",
+  "feexlink": "FeexLink",
+  "feexcorporate": "FeexCorporate",
+  "feexpage": "FeexPage",
+  "refunds": "Remboursements",
+  "payouts_api": "Payouts Api",
+  "list": "Liste",
+  "customers": "Clients",
+  "payouts": "Reversements",
+  "developers": "Développeurs",
+  "webhook": "Webhook",
+  "team": "Équipe",
+  "test": "Test",
+  "live": "Live"
+}

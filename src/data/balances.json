@@ -1,0 +1,85 @@
+ {
+    "Bénin": {
+      "mobileBalance": {
+        "MTN Money": 0,
+        "Moov Money": 0,
+        "Coris Money": 0,
+        "Celtis Money": 0
+      },
+      "bankBalance": 0,
+      "commissions": 0,
+      "last24h": 0,
+      "reserve": 0
+    },
+    "Burkina-Faso": {
+      "mobileBalance": {
+        "Moov Money": 0,
+        "Orange Money": 0
+      },
+      "bankBalance": 0,
+      "commissions": 0,
+      "last24h": 0,
+      "reserve": 0
+    },
+    "Cameroun": {
+      "mobileBalance": {
+        "MTN Money": 0,
+        "Orange Money": 0
+      },
+      "bankBalance": 0,
+      "commissions": 0,
+      "last24h": 0,
+      "reserve": 0
+    },
+    "Congo Brazzaville": {
+      "mobileBalance": {
+        "MTN Money": 0
+      },
+      "bankBalance": 0,
+      "commissions": 0,
+      "last24h": 0,
+      "reserve": 0
+    },
+    "Côte d'Ivoire": {
+      "mobileBalance": {
+        "MTN Money": 0,
+        "Moov Money": 0,
+        "Orange Money": 0,
+        "Wave": 0
+      },
+      "bankBalance": 0,
+      "commissions": 0,
+      "last24h": 0,
+      "reserve": 0
+    },
+    "Nigeria": {
+      "mobileBalance": {
+        "Nigeria Money": 0
+      },
+      "bankBalance": 0,
+      "commissions": 0,
+      "last24h": 0,
+      "reserve": 0
+    },
+    "Sénégal": {
+      "mobileBalance": {
+        "Orange Money": 0,
+        "Free Money": 0
+      },
+      "bankBalance": 0,
+      "commissions": 0,
+      "last24h": 0,
+      "reserve": 0
+    },
+    "Togo": {
+      "mobileBalance": {
+        "Moov Money": 0,
+        "Yas Money": 0
+      },
+      "bankBalance": 0,
+      "commissions": 0,
+      "last24h": 0,
+      "reserve": 0
+    }
+  }
+  

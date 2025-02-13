@@ -1,0 +1,34 @@
+{
+  "sidebar": {
+    "dashboard": "Tableau de bord",
+    "transactions": "Transactions",
+    "feexlink": "FeexLink",
+    "feexcorporate": "FeexCorporate",
+    "feexpage": "FeexPage",
+    "refunds": "Remboursements",
+    "payouts_api": "Payouts Api",
+    "list": "Liste",
+    "customers": "Clients",
+    "payouts": "Reversements",
+    "developers": "Développeurs",
+    "webhook": "Webhook",
+    "team": "Equipe"
+  },
+  "dashboard": {
+    "balance": {
+      "title": "Solde disponible",
+      "pending": "En attente",
+      "reserved": "Réservé"
+    },
+    "stats": {
+      "daily": "Aujourd'hui",
+      "weekly": "Cette semaine",
+      "monthly": "Ce mois"
+    },
+    "chart": {
+      "title": "Aperçu des transactions",
+      "amount": "Montant",
+      "date": "Date"
+    }
+  }
+} 
